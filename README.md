@@ -11,14 +11,14 @@ git clone git@github.com:abdullahqasim/ikonic.git
 ```
 
 Go into the project root directory
-    ```sh
+    ```bash
     cd ikonic
     ```
 
 # Laravel
 
 Go into the project backend directory
-    ```sh
+    ```bash
     cd ikonic-backend
     ```
 
