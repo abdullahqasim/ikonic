@@ -11,16 +11,18 @@ git clone git@github.com:abdullahqasim/ikonic.git
 ```
 
 Go into the project root directory
-    ```bash
-    cd ikonic
-    ```
+
+```bash
+cd ikonic
+```
 
 # Laravel
 
 Go into the project backend directory
-    ```bash
-    cd ikonic-backend
-    ```
+
+```bash
+cd ikonic-backend
+```
 
 Install composer:
 
